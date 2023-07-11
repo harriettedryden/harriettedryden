@@ -2,7 +2,7 @@
 - 👀 I’m interested in UX, UI
 - 🌱 I’m currently learning Javascript, HTML and CSS
 - 💞️ I’m looking to collaborate on fun projects
-- 📫 How to reach me linkedin.com/in/harriettedryden
+- 📫 You can reach me on linkedin.com/in/harriettedryden
 
 <!---
 harriettedryden/harriettedryden is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
